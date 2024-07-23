@@ -1,0 +1,12 @@
+#boda {
+    display: block;
+    margin: auto;
+    width: 40vw;
+    min-width: 900px;
+}
+
+#formInputs select {
+    width: 100%;
+    box-sizing: border-box;
+    min-width: 100%;
+}

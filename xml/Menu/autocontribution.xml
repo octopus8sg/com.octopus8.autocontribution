@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/autoconsettings</path>
+    <page_callback>CRM_Autocontribution_Form_AutoConSettings</page_callback>
+    <title>Automatic Contribution Settings</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
