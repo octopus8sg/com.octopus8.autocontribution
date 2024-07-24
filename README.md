@@ -55,6 +55,7 @@ Inside the activity
 
 ![Screenshot](/images/pen.png)
 
+
 Inside the contribution generated after the activity is marked "Completed"
 ![Screenshot](/images/pen2.png)
 
