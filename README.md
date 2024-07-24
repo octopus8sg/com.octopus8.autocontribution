@@ -1,7 +1,5 @@
 # com.octopus8.autocontribution
 
-![Screenshot](/images/screenshot.png)
-
 This is a redo/revamp of my first extension, Auto Contribution.
 
 Like the original, this extension creates a new activity type, Pending Contribution, that can be mapped onto Ninja Forms. When an activity with this activity type is marked as "Completed", a new contribution will be made with these fields.
@@ -38,19 +36,25 @@ The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 1. First in the Navigation Menu, hover over Contributions and then click on "Auto Contribution Settings"
 ![Screenshot](/images/Navigate.png)
+
 You will appear on this page
 ![Screenshot](/images/Navigate2.png)
-1. Under "Choose Field Group" input, choose the Custom Field Group where the field you wish to map is located (The group must be for Contributions)
+
+2. Under "Choose Field Group" input, choose the Custom Field Group where the field you wish to map is located (The group must be for Contributions)
 ![Screenshot](/images/Navigate3.png)
-1. Then, select the field you wish to map and press "Add"
+
+3. Then, select the field you wish to map and press "Add"
 ![Screenshot](/images/Navigate4.png)
-1. The page should then refresh (It takes a few second) and presto!
+
+4. The page should then refresh (It takes a few second) and presto!
 ![Screenshot](/images/Navigate5.png)
 
 ## Expected result
 
 Inside the activity
+
 ![Screenshot](/images/pen.png)
+
 Inside the contribution generated after the activity is marked "Completed"
 ![Screenshot](/images/pen2.png)
 
